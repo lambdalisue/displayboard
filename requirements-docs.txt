@@ -1,0 +1,6 @@
+app_version
+pyside
+sphinx
+# sphinxcontrib-napoleon is only required if sphinx version is below than 1.3
+# currently sphinx 1.3 have not released thus the line below is required.
+sphinxcontrib-napoleon
